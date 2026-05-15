@@ -39,7 +39,7 @@ Boas práticas de HTML e CSS
 
 📂 Estrutura do projeto
 
-📁 nexus-landing-page
+📁 nexus-landing-page<br>
  ┣ 📁 img
  ┣ 📄 index.html
  ┣ 📄 style.css
