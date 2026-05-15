@@ -40,10 +40,10 @@ Boas práticas de HTML e CSS
 📂 Estrutura do projeto
 
 📁 nexus-landing-page<br>
- ┣ 📁 img
- ┣ 📄 index.html
- ┣ 📄 style.css
- ┗ 📄 README.md
+ ┣ 📁 img<br>
+ ┣ 📄 index.html<br>
+ ┣ 📄 style.css<br>
+ ┗ 📄 README.md<br>
 
  👨‍💻 Desenvolvimento
 
